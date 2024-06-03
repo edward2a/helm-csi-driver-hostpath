@@ -1,0 +1,5 @@
+apiVersion: v2
+appVersion: v1.13.0
+description: Kubernetes HostPath CSI driver
+name: csi-hostpath
+version: 0.0.1
